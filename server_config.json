@@ -4,6 +4,6 @@
   "show_custom_banner": false,
   "custom_banner_text": "text yaha likhna hai",
   "custom_banner_color": "#ffcc00",
-  "use_image_banner": true,
+  "use_image_banner": false,
   "image_url": "https://github.com/KNeeraj-git/YT-Downloader-Config/blob/main/nytd%20banner.png?raw=true"
 }
