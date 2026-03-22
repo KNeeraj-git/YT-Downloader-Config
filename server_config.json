@@ -1,9 +1,9 @@
 {
   "latest_version": "4.0",
-  "update_link": "yaha new update ka link dena hai jaise ki google drive",
+  "update_link": "yaha new update ka link Google Drive wagera ka",
   "show_custom_banner": false,
-  "custom_banner_text": "🚀 Welcome to Neeraj YT Downloader Pro! Follow me on Instagram @neerajfx.ig",
+  "custom_banner_text": "...",
   "custom_banner_color": "#ffcc00",
   "use_image_banner": true,
-  "image_url": "https://raw.githubusercontent.com/KNeeraj-git/YT-Downloader-Config/refs/heads/main/nytd%20banner.png"
+  "image_url": "https://github.com/KNeeraj-git/YT-Downloader-Config/blob/main/nytd%20banner.png?raw=true"
 }
