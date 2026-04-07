@@ -1,8 +1,8 @@
 {
-  "latest_version": "1.1",
-  "update_link": "https://github.com/KNeeraj-git/YT-Downloader-Config/releases/download/V1.1/Neeraj.YT.Downloader.V1.1.exe",
-  "show_custom_banner": true,
-  "custom_banner_text": "Thank You For updating the software",
+  "latest_version": "0",
+  "update_link": "yaha link add karna hai",
+  "show_custom_banner": false,
+  "custom_banner_text": "yaha text add karo",
   "custom_banner_color": "#ffcc00",
   "use_image_banner": false,
   "image_url": "https://github.com/KNeeraj-git/YT-Downloader-Config/blob/main/nytd%20banner.png?raw=true"
